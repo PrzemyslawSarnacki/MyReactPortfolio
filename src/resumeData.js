@@ -8,7 +8,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/",
+          "url":"https://www.linkedin.com/in/przemys%C5%82aw-sarnacki-92b4291b1/",
           "className":"fa fa-linkedin"
         },
         {
@@ -31,15 +31,15 @@ let resumeData = {
         "specialization":"Information and Communication Technology",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
-        "Achievements":"Some Articles"
+        "Achievements":"Masters Degree"
       },
       {
-        "UniversityName":"I High School",
-        "specialization":"Math and Physics",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2016",
-        "Achievements":"laureate of some science competitions"
-      }
+        "UniversityName":"Military University of Technology",
+        "specialization":"Information and Communication Technology",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2020",
+        "Achievements":"Engeenering Degree"
+      },
     ],
     "work":[
       {
@@ -79,21 +79,25 @@ let resumeData = {
       {
         "name":"Security Survey",
         "description":"Proggresive Web App made mostly in Django in order to help you with choice of appropriate security degree of your building",
+        "codeurl":"https://github.com/PrzemyslawSarnacki/SecuritySurvey",
         "imgurl":"images/portfolio/security_screenshot.png"
       },
       {
-        "name":"DjangoFurnitureShop",
-        "description":"My first Django E-Commerce",  
+        "name":"FurnitureService",
+        "description":"Fullstack web service",  
+        "codeurl":"https://github.com/PrzemyslawSarnacki/FurnitureService",
         "imgurl":"images/portfolio/screenshot_furniture_shop.png"
       },
       {
         "name":"Waspmote Flutter BLE app",
         "description":"App designed for a Waspmote Laboratory with use of Bluetooth Low Energy",
+        "codeurl":"https://github.com/PrzemyslawSarnacki/flutter_ble_app_waspmote",
         "imgurl":"images/portfolio/screenshot_flutter_ble.png"
       },
       {
         "name":"invoiceApp",
         "description":"Program which allows you to generate Invoices which uses MongoDB and Qt",
+        "codeurl":"https://github.com/PrzemyslawSarnacki/invoiceApp",
         "imgurl":"images/portfolio/screenshot_invoice_app.png"
       }
     ],
