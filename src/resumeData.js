@@ -86,7 +86,7 @@ let resumeData = {
         "name":"FurnitureService",
         "description":"Fullstack web service",  
         "codeurl":"https://github.com/PrzemyslawSarnacki/FurnitureService",
-        "imgurl":"images/portfolio/screenshot_furniture_shop.png"
+        "imgurl":"https://github.com/PrzemyslawSarnacki/FurnitureService/raw/master/preview/login.png"
       },
       {
         "name":"Waspmote Flutter BLE app",
