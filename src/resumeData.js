@@ -92,7 +92,7 @@ let resumeData = {
         "name":"Waspmote Flutter BLE app",
         "description":"App designed for a Waspmote Laboratory with use of Bluetooth Low Energy",
         "codeurl":"https://github.com/PrzemyslawSarnacki/flutter_ble_app_waspmote",
-        "imgurl":"images/portfolio/screenshot_flutter_ble.png"
+        "imgurl":"https://github.com/PrzemyslawSarnacki/flutter_ble_app_waspmote/raw/master/preview/chart.png"
       },
       {
         "name":"invoiceApp",
